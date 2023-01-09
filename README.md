@@ -1,2 +1,3 @@
 # ThreeBodyProblem
-An article discussing the three-body problem in mechanics
+
+In this project, we have discussed the restricted Three-Body problem and investigated how the motion of a body with negligible mass varies with different initial conditions. We have used Maple to plot the graphs for non-linear differential equations. We assume that the motion takes place in two dimensions. We observe that the body with negligible mass revolves around the centre of mass of the three body system only when its relative angular velocity is non-zero. The number of revolutions and the time taken for the body to reach singularity depends on the initial conditions. We also note the existence of five Lagrange (equilibrium) points in the system.
